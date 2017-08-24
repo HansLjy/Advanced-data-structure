@@ -4,7 +4,7 @@
 	Author:ezoiljy
 	Date :2017/8/22
 	Description: 树链剖分
-	要求支持单点修改与区间查询
+	要求支持单边修改与区间查询
 	<del>这难道不是LCA练习题吗?</del>
 */
 
